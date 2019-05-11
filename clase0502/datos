@@ -1,0 +1,15 @@
+Tipos de datos
+Nativos
+	char, int, float
+Abstractos(coleccion)
+	Vector, grid, stack, heap, set, map
+
+Vector - metodos
+ 	add - 1 parametro - anade algo al final
+	inserto - 2 parametros - anade algo en indice
+	clear - sin params - 
+	isEmpty - sinparams
+	remove - 1 parametro - remueve algo en indice
+	set - 2 params
+	sublist - 2 params
+	size - sin params
