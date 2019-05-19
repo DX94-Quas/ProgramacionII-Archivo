@@ -48,12 +48,12 @@ int main()
         cout << " Linea: " << contadorLinea
              << ", Palabras: " << palabras
              << ", Caracteres: " << caracteres - 1 << endl;
-        chars += caracteres;
+        chars += caracteres - 1;
     }
     cout << " Promedio de chars: " << chars / contadorLinea
          << endl
          << " Palabra mas larga: " << palabrota
-         << " Numero de letras: " << mayorsote
+         << ", Numero de letras: " << mayorsote
          << endl
          << " Palabras Unicas: " << conjunto.toString()
          << endl;
